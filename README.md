@@ -75,7 +75,7 @@ The report is organized into **three major parts**, with each part implemented i
 │   │   ├── reconstructed_bandpass_noisy.wav
 
 ├── report.pdf                   # The full project report summarizing methods, results, and conclusions
----
+```
 
 ## 📌 File Types
 
