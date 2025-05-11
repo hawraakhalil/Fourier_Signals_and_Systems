@@ -1,5 +1,5 @@
 function [t_sample, x_sample] = sample_signal(t, xt, fs)
-% SAMPLE samples a continuous-time signal at a given sampling rate fs.
+% samples a continuous-time signal at a given sampling rate fs.
 % Input:
 %   t  - original time vector
 %   xt - continuous signal vector (same size as t)

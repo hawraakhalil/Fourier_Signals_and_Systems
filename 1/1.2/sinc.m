@@ -1,3 +1,4 @@
+% sinc function
 function y = sinc(x)
     y = ones(size(x));
     idx = x ~= 0;

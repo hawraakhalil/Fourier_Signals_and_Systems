@@ -2,7 +2,7 @@ function h = bandpass_fir(f_low, f_high, fs, N)
     % f_low: lower cutoff (Hz)
     % f_high: upper cutoff (Hz)
     % fs: sampling frequency
-    % N: filter length (odd number recommended)
+    % N: filter length
 
     n = -(N-1)/2:(N-1)/2;
 
